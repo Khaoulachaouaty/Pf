@@ -1,0 +1,9 @@
+/* styles.css */
+.nouveau-row {
+    background-color: #154891; /* Couleur pour les demandes Nouveau */
+  }
+  
+  .ancien-row {
+    background-color: #f2f2f2; /* Couleur pour les demandes Ancien */
+  }
+  
